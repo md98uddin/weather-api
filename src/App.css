@@ -1,0 +1,9 @@
+body {
+  background: url("./img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-container .city-input {
+  font-size: 50;
+}
